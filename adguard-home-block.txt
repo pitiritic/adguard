@@ -1,1 +1,42 @@
+! Lista Personalizada de bloqueo para AdGuard Home
+! Autor: Pitiritic
+! Fuente: Personal
+! Última actualización: 2025-05-15
+! Descripción: Bloqueo personalizado de rastreadores, anuncios y malware.
 
+||ads.google.com^
+||tracking.facebook.com^
+||doubleclick.net^
+||adserver.example.com^
+||malware.badsite.ru^
+||telemetry.microsoft.com^
+||analytics.example.net^
+! Lista web porno sacada de chatgpt 15-05-2025
+||pornhub.com^
+||xvideos.com^
+||xnxx.com^
+||xhamster.com^
+||redtube.com^
+||youporn.com^
+||youporncdn.com^
+||brazzers.com^
+||bangbros.com^
+||faphouse.com^
+||spankbang.com^
+||camwhores.tv^
+||motherless.com^
+||tnaflix.com^
+||hclips.com^
+||rule34.xxx^
+||hqporner.com^
+||erome.com^
+||metart.com^
+||hentaihaven.xxx^
+||nhentai.net^
+||javhub.net^
+||javmost.com^
+||javlibrary.com^
+||porn.com^
+||slutload.com^
+||beeg.com^
+||freudbox.com^
