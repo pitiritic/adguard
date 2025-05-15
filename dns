@@ -1,0 +1,7 @@
+https://dns10.quad9.net/dns-query
+https://security.cloudflare-dns.com/dns-query
+tls://security.cloudflare-dns.com
+https://dns.quad9.net/dns-query
+tls://dns.quad9.net
+https://dns.adguard.com/dns-query
+tls://dns.adguard.com
