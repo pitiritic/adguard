@@ -40,3 +40,28 @@
 ||slutload.com^
 ||beeg.com^
 ||freudbox.com^
+! --- Apuestas ---
+||bet365.com^
+||1xbet.com^
+||stake.com^
+||pokerstars.com^
+||888casino.com^
+
+! --- Drogas / Sustancias ---
+||leafly.com^
+||weedmaps.com^
+||erowid.org^
+||grizzle.com^
+||magicmushroomsdispensary.ca^
+
+! --- Violencia / Contenido gráfico ---
+||bestgore.com^
+||goregrish.com^
+||livegore.com^
+
+! --- Foros y redes no moderadas ---
+||4chan.org^
+||8kun.top^
+||kiwifarms.net^
+||omegle.com^
+||ome.tv^
